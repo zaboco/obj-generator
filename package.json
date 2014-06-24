@@ -1,0 +1,21 @@
+{
+  "name": "obj-generator",
+  "version": "0.1.0",
+  "description": "Creates a factory method for a class",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --ui tdd test.js"
+  },
+  "keywords": [
+    "object",
+    "generator",
+    "class",
+    "factory"
+  ],
+  "author": "zaboco@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
