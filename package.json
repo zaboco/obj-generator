@@ -1,15 +1,15 @@
 {
   "name": "obj-generator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Creates a factory method for a class",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --ui tdd test.js"
   },
-	"repository": {
-		"type": "git",
-		"url": "git@github.com:zaboco/obj-generator.git"
-	},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zaboco/obj-generator.git"
+  },
   "keywords": [
     "object",
     "generator",
