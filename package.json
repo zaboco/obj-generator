@@ -4,8 +4,12 @@
   "description": "Creates a factory method for a class",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --ui tdd test.js"
+    "test": "./node_modules/.bin/mocha --ui tdd test.js"
   },
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:zaboco/obj-generator.git"
+	},
   "keywords": [
     "object",
     "generator",
